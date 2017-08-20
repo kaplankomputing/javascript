@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-kaplankomputing",
+  "version": "1.0.0",
+  "description": "Kaplan Komputing's ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaplankomputing/javascript.git"
+  },
+  "keywords": [
+    "eslint",
+    "kaplankomputing",
+    "kaplan",
+    "javascript"
+  ],
+  "author": "Max Kaplan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaplankomputing/javascript/issues"
+  },
+  "homepage": "https://github.com/kaplankomputing/javascript#readme",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.2.1"
+  }
+}
